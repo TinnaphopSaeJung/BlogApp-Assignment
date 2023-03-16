@@ -1,6 +1,6 @@
 .post {
     width: 385px;
-    margin: 0px 25px 40px 25px;
+    margin: 0px 28px 40px 65px;
     
     
 }
@@ -10,6 +10,7 @@
     height: 280px;
     object-fit: cover;
     border-radius: 3px;
+    margin-bottom: 10px;
 }
 
 .postInfo {
@@ -22,7 +23,6 @@
     font-family: 'Josefin Sans', sans-serif;
     font-size: 24px;
     font-weight: 700;
-    margin-top: 15px;
     cursor: pointer;
 }
 
