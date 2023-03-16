@@ -5,12 +5,14 @@ Backend = api folder, Frontend = blog-app folder
 สมาชิก :
   1. 6210110484   นายติณณภพ แซ่จุ้ง     //ทำในส่วน Backend
   2. 6210110599   นางสาวสิรินทรา พุ่มนุ่ม   //ทำในส่วน Frontend
-  
- เครื่องมือที่ใช้ :
+
+เครื่องมือที่ใช้ :
     - React
     - Node js
     - MongoDB
-  
+
+link: 
+
 เว็บที่ทำเป็น Blog Web โดยจะจากหน้า
   - Register โดยจะสามารถลงทะเบียนในการเข้าใช้เว็บ จะลิงค์ Username, Email, Password กับฐานข้อมูล MongoDB
   - Login เมื่อลงทะเบียนเสร็จสามารถ login เข้าไปใช้งานได้
