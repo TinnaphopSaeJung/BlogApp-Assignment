@@ -11,7 +11,7 @@ Backend = api folder, Frontend = blog-app folder
     - Node js
     - MongoDB
 
-link: 
+Link Youtube for Demo:  https://youtu.be/wVdAapyAMGU
 
 เว็บที่ทำเป็น Blog Web โดยจะจากหน้า
   - Register โดยจะสามารถลงทะเบียนในการเข้าใช้เว็บ จะลิงค์ Username, Email, Password กับฐานข้อมูล MongoDB
